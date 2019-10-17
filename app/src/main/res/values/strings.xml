@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CVApp</string>
+    <string name="bullet_pt">➔ </string>
+    <string name="btntxt_careerhighlights">Career Highlights</string>
+    <string name="btntxt_experience">Experience</string>
+    <string name="btntxt_education">Education</string>
+</resources>
